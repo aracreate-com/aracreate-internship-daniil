@@ -24,12 +24,26 @@
 
 **Creating:**
 + Resume HTML page
++ SSH key
 
 ### 3<sup>rd</sup> day:
 
 **Learning more about:**
 + Documentations
 + Markdown
++ С++:
+    + Variables
+    + Common data types
+    + Operators
+    + Strings
+    + Simple math
+    + Booleans
+    + If.. else if... else and switch
+    + Loops
+    + Arrays
+    + References
+    + Simple functions
 
 **Creating:**
 + Process documentation
++ GPG key(not done)
