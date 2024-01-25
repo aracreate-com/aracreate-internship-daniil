@@ -38,7 +38,7 @@
     + Strings
     + Simple math
     + Booleans
-    + If.. else if... else and switch
+    + Conditions (if.. else if... else and switch...case)
     + Loops
     + Arrays
     + References
@@ -46,5 +46,19 @@
 
 **Creating:**
 + Process documentation
-+ GPG key(not done)
- 
++ GPG key
+
+### 4<sup>th</sup> day:
+
+**Learning more about:**
++ Terminal commands(Game Shell + ohmyzsh)
++ C++:
+    + Simple classes
++ Fundamentals of Arduino
+    + Hardware
+    + Sofware (common functions and classes)
+    + API
+    + Microcontrollers
+    + Try it out
+
+### 5<sup>th</sup> day:
