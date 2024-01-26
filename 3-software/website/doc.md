@@ -62,3 +62,8 @@
     + Try it out
 
 ### 5<sup>th</sup> day:
+**Learning more about:**
++ Arduino and its functions
+
+**Creating:**
++ Arduino sketches(simple)
