@@ -93,6 +93,45 @@
 
 **Improving:**
 + Documentation and its structure(_can be better_)
++ Arduino sketches
+
+**Learning more about:**
++ Circuits
++ Electronics components
+
+### 9<sup>th</sup> day:
+
+**Learning more about:**
++ Tinkercad
++ SVG and STL
++ 3D-printing
+
+**Getting acquainted with:**
++ xTool Creative Space
++ Lasercutting
+
+# Additional
+## Third week
+### 10<sup>th</sup> day:
+
+**Creating:**
++ Parts for box
++ Simple open box
++ Closed box with round corners
+
+**Learning more about:**
++ Lasercutting
+
+### 11<sup>th</sup> day:
+**Getting acquainted with:**
++ UltiMaker Cura
+
+**Designing -> printing:**
++ Simple box (+ -> +)
++ Nut (+ -> +)
++ Bolt to nut (+ -> +)
+
+### 12<sup>th</sup> day:
 
 
 #### Useful links
@@ -108,11 +147,10 @@
 + [Standard git commits](https://cbea.ms/git-commit/ "")
 + [Convential commits](https://www.conventionalcommits.org/en/v1.0.0/ "")
 + [Naming conventions(case styles)](https://vibhas1892.medium.com/case-styles-4347dec31310 "")
-+ 
++ [MakerCase](https://en.makercase.com/ "")
  
 
 
 #### Others
 + [Adding](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account "") and [Generating](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent "") a [SHH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh "")
 + [Adding](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account "") and [Generating](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key "") a [GPG key](https://www.privex.io/articles/what-is-gpg "")
-+
