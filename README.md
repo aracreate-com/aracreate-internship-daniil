@@ -104,7 +104,7 @@
 **Learning more about:**
 + Tinkercad
 + SVG and STL
-+ 3D-printing
++ 3D printing
 
 **Getting acquainted with:**
 + xTool Creative Space
@@ -132,6 +132,26 @@
 + Bolt to nut (+ -> +)
 
 ### 12<sup>th</sup> day:
+**Getting acquainted with:**
++ Fusion 360
++ 3D modelling
+
+**Creating:**
++ A model of:
+   + Simple box
+   + Bolt
+   + Nut
+   + Breadboard
+
+### 13<sup>th</sup> day:
+**Testing:**
++ Printer
++ Scanner
+
+**Creating:**
++ A model of: 
+    + Prototype board
+
 
 
 #### Useful links
