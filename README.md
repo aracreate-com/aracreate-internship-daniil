@@ -152,6 +152,11 @@
 + A model of: 
     + Prototype board
 
+### 14<sup>th</sup> day:
+***Creating:**
++ A model of:
+    + CR2032
+    + CR2032 holder
 
 
 #### Useful links
